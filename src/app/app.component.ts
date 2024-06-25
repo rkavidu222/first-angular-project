@@ -10,4 +10,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'firstProject';
+  heading = 'Welcome To Angular';
+  pharagraph = 'First Angular code'
 }
